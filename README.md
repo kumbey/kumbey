@@ -7,7 +7,7 @@
 	<a href="https://www.linkedin.com/in/khumarbyek-beybit/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://discordapp.com/users/Kumurbek#9180/"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
 </p>
-
+<div align="center">
 #### ✔ Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -39,3 +39,4 @@
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/kumbey)  
+</div>
