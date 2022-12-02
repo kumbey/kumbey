@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat-square" alt="Jira Software Badge"></a>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square" alt="IntelliJ IDEA Badge"></a>
 </br>
 </br>
 
