@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/JDBC-yellow?style=flat-square&logo=JDBC&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-f7f7f7?style=flat-square&logo=mysql&logoColor=black"/></a>
-* **Learning**   
+
+#### 📖 Learning 
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/python-339933?style=flat-square&logo=python&logoColor=#white"/></a>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
