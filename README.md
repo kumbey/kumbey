@@ -32,7 +32,7 @@
 
 #### 👇 ETC  
 <img src="https://img.shields.io/badge/1Password-0094F5?logo=1password&logoColor=fff&style=flat-square" alt="1Password Badge"></a>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"></a>   
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Studio"/></a>   
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" alt="Visual Studio Code Badge"></a>
 <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Slack-A442A0?style=flat&logo=Slack&logoColor=white"/></a>
@@ -46,7 +46,9 @@
 🙏Contribute🙏
 ---
 <div>
-<a href="http://www.github.com/kumbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&stroke=0f172a&background=ffffff&ring=e25822&fire=e25822&currStreakNum=0f172a&currStreakLabel=e25822&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true&layout=compact" /></a>
+<a href="http://www.github.com/kumbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&stroke=0f172a&background=ffffff&ring=e25822&fire=e25822&currStreakNum=0f172a&currStreakLabel=e25822&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true&layout=compact&count_private=true
+
+" /></a>
  <div style={"border: 5px solid black; height: 200px;"}></div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbey&layout=compact&langs_count=6&hide_border=true"/>
 </div>
