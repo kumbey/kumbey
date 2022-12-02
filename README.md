@@ -25,7 +25,7 @@
 
 #### 📖 Learning 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square" alt="Kotlin Badge">
-<img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?logo=googlechrome&logoColor=fff&style=flat-square" alt="Google Chrome Badge">
 
 
 #### 👆 ETC  
