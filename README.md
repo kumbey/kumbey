@@ -1,13 +1,13 @@
-<h2 align="center">Hi there 👋, I'm Kumurbek.</h2>
+<h2 >Hi there 👋, I'm Kumurbek.</h2>
 
-<p align="center">I am growing as a front-end developer to create a fun world..</p>
+<p >I am growing as a front-end developer to create a fun world..</p>
 
-<p align="center">
+<p >
 	<a href="mailto:kumurbek.b@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/khumarbyek-beybit/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://discordapp.com/users/Kumurbek#9180/"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
 </p>
-<div align="center">
+
 💻Languages & Tools💻 
 ---
 * **Main**   
@@ -34,5 +34,3 @@
 🙏Contribute🙏
 ---
 ![hyeong-jun's github stats](https://github-readme-stats.vercel.app/api?username=hyeong-jun-kim&show_icons=true&theme=dark&bg_color=#3399ff)
-
-</div>
