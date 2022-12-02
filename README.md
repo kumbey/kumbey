@@ -45,4 +45,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbey&layout=compact&langs_count=6"/>
 </div>
 
+<div>
+<a href="http://www.github.com/kumbey"><img src="https://github-readme-stats.vercel.app/api?username=kumbey&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ec4899&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="kumbey's GitHub stats" /></a>
+
+<a href="http://www.github.com/kumbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&stroke=0f172a&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=0f172a&currStreakLabel=ec4899&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a></div>
+
 ![Profile views](https://gpvc.arturio.dev/kumbey)
