@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?logo=googlechrome&logoColor=fff&style=flat-square" alt="Google Chrome Badge"></a> 
 
 
-#### 👆 ETC  
+#### 👇 ETC  
 <img src="https://img.shields.io/badge/1Password-0094F5?logo=1password&logoColor=fff&style=flat-square" alt="1Password Badge"></a> 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
@@ -39,4 +39,10 @@
 
 🙏Contribute🙏
 ---
-![hyeong-jun's github stats](https://github-readme-stats.vercel.app/api?username=hyeong-jun-kim&show_icons=true&theme=dark&bg_color=#3399ff)
+<div>
+  <a href="https://github.com/kumbey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumbey&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbey&layout=compact&langs_count=6"/>
+</div>
+
+![Profile views](https://gpvc.arturio.dev/kumbey)
