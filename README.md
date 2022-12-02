@@ -7,6 +7,7 @@
 	<a href="https://www.linkedin.com/in/khumarbyek-beybit/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://discordapp.com/users/Kumurbek#9180/"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
 </p>
+</br>
 
 💻Languages & Tools💻 
 ---
@@ -36,6 +37,7 @@
 <img src="https://img.shields.io/badge/Slack-A442A0?style=flat&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+</br>
 
 🙏Contribute🙏
 ---
