@@ -40,7 +40,7 @@
 🙏Contribute🙏
 ---
 <div>
-<a href="http://www.github.com/kumbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&stroke=0f172a&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=0f172a&currStreakLabel=ec4899&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true&layout=compact" /></a>
+<a href="http://www.github.com/kumbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&stroke=0f172a&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=0f172a&currStreakLabel=ec4899&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&layout=compact" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbey&layout=compact&langs_count=6"/>
 </div>
 
