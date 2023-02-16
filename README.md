@@ -50,7 +50,6 @@ Content-Length: 1234
 
 🙏Contribute🙏
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumbey)](https://git.io/streak-stats)
 <a href="http://www.github.com/kumbey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&count_private=true&stroke=0f172a&background=ffffff&ring=e25822&fire=e25822&currStreakNum=e25822&currStreakLabel=e25822&sideNums=38761d&sideLabels=38761d&dates=3d85c6&layout=compact" /></a>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbey&layout=compact&langs_count=6"/>
   
