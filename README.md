@@ -1,7 +1,3 @@
-HTTP/1.1 200 OK
-Cache-Control: no-cache
-Content-Type: text/html
-Content-Length: 1234
 
 <h2 >Hi there 👋, I'm Kumurbek.</h2>
 
